@@ -1,1 +1,1 @@
-# Coding-Problem-Types
+# Coding Problem Types
